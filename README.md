@@ -133,3 +133,21 @@ Table: Joined Table
 +----+----------------------+-----+-------+-----------+----------------------+
 #######################################################
 ```
+---
+## ⭐ Notes
+
+This was one of my most intellectually rewarding Python projects.
+
+It allowed me to:
+- simulate the **core logic of a real DBMS**, entirely from scratch  
+- implement **manual SQL parsing and query execution** without any libraries  
+- handle JOIN operations and WHERE conditions with native Python  
+- apply robust exception handling and test against multiple input scenarios  
+- write code that is modular, deterministic, and fully reproducible
+
+Thanks to this project, I gained a deeper understanding of:
+- how databases store and manipulate data internally  
+- how SQL queries are interpreted and executed  
+- the design of relational operators like SELECT, JOIN, and COUNT  
+
+Overall, it helped me strengthen my problem-solving skills and get more comfortable with database internals using plain Python.
